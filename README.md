@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with user login sign-up
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ This project is User login and signup using React-JS and Firebase. Also has google sign-in feature.
 
 ## Available Scripts
 
